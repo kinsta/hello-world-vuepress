@@ -1,0 +1,13 @@
+{ 
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "build": "vuepress build docs",
+    "start": "serve ./docs/.vuepress/dist"
+  },
+  "dependencies": {
+    "serve": "^14.0.1"
+  },
+  "devDependencies": {
+    "vuepress": "^2.0.0-beta.53"
+  }
+}
