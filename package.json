@@ -1,4 +1,5 @@
 { 
+  "name": "my-app",
   "scripts": {
     "docs:dev": "vuepress dev docs",
     "build": "vuepress build docs",
