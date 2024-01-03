@@ -1,12 +1,9 @@
-{ 
+{
   "name": "my-app",
   "scripts": {
     "docs:dev": "vuepress dev docs",
     "build": "vuepress build docs",
-    "start": "serve ./docs/.vuepress/dist"
-  },
-  "dependencies": {
-    "serve": "^14.0.1"
+    "start": "npx -y serve ./docs/.vuepress/dist"
   },
   "devDependencies": {
     "vuepress": "^2.0.0-beta.53"

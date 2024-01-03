@@ -1,4 +1,3 @@
-![Photo by Dominik Scythe on Unsplash](https://user-images.githubusercontent.com/2342458/206678153-044173ab-5203-429d-bd7a-2b0c5f309eea.png)
 # Kinsta - Hello World - Static Site with VuePress
 An example of how to deploy a static site built with **VuePress** on Kinsta Hosting.
 
